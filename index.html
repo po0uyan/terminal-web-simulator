@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="./style.css">
+    <script src="//cdn.jsdelivr.net/interact.js/1.2.6/interact.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script type="application/javascript" src="./script.js"></script>
+    <title>Pouyan Shalbafan Personal Webpage</title>
+</head>
+<body>	
+	<span style="display: none">پویان شالبافان</span>
+<span style="display: none">رزومه مربوط به پویان شالبافان</span>
+<span style="display: none">pouyan shalbafan info </span>
+<span style="display: none">pouyan.me info </span>
+<span style="display: none">pouyan shalbafan personal  info </span>
+    <div id="icon">
+        <img src="./bkg/terminal_icon.png" width="55px" height="50px" >
+        <div id="iconname">Terminal</div>
+    </div>
+    <div id="console">
+        <div id="bar">
+            <button id="close">&nbsp</button>
+            user@pouyan.me:~
+        </div>
+        <div id="workspace" onclick="getfocus()">
+            <div id="history">
+                <p> Hi there! Welcome to my website. To get a list of commands type in 'help'. You can also download my resume by typing 'download resume'</p> <br>
+            </div>
+            <label>user@pouyan.me:~$ </label>
+            <input type="text" id="command" name="cmdline">
+        </div>
+    </div>
+</body>
+</html>

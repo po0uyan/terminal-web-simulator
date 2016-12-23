@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> 
+  <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8" lang="en"> 
+  <![endif]-->
+  <!--[if IE 8]> <html class="no-js lt-ie9" lang="en"> <![endif]-->
+  <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+  <head>
+    <title>پویان شالبافان</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="" />
+<!-- 
+pbmTeam
+http://www.pbmteam.com
+-->
+    <meta name="author" content="templatemo">
+    <meta charset="UTF-8">
+
+    <link href='http://fonts.googleapis.com/css?family=Comfortaa:400,700' rel='stylesheet' type='text/css'>
+
+    <!-- CSS Bootstrap & Custom -->
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">  
+    <link href="slider/flexslider.css" rel="stylesheet" type="text/css" media="screen" />
+    <link href="css/templatemo_style.css" rel="stylesheet" type="text/css">
+
+    <!-- Modernizr -->
+    <script src="slider/modernizr.js"></script>
+    <!-- HTML 5 shim for IE backwards compatibility -->
+  <!-- [if lt IE 9]>
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js">
+  </script>
+  <![endif]-->
+</head>
+<body >
+<span> پویان شالبافان</span>
+<span> پویان شالبافان</span>
+<span>pouyan shalbafan</span>
+<span>pouyan shalbafan</span>
+<span> shalbafan</span>
+  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">    
+    <div class="container">
+      <div class="row">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="col-md-2 col-sm-2 col-xs-12">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a href="#" class="navbar-brand"><img src="images/logo.png" alt="pbm"></a>
+          </div>
+        </div>        
+        
+        <div class="col-md-10 col-sm-10 col-xs-12">
+          <div class="navbar-collapse collapse menu">          
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="#home"><i class="fa fa-home"></i>صفحه اصلی</a></li>
+              <li><a href="#about"><i class="fa fa-user"></i>در باره ما</a></li>
+			   <li><a href="#team"><i class="fa fa-briefcase"></i>تیم ما</a></li>
+              <li><a href="#services"><i class="fa fa-cogs"></i>خدمات</a></li>
+            <!--  <li><a href="#portfolio"><i class="fa fa-briefcase"></i>آلبوم</a></li> -->
+              <li><a href="#blog"><i class="fa fa-pencil"></i>دانلود ها</a></li>
+              <li><a href="#contact"><i class="fa fa-envelope"></i>ارتباط با ما</a></li>
+            </ul>
+          </div><!-- /.navbar-collapse -->
+        </div>
+      </div><!-- /.row -->
+    </div>
+  </nav>
+
+  <div class="container" id="home">
+    <div class="row">
+      <div class="col col-md-12">        
+        <div class="flexslider">
+          <ul class="slides">
+            <li>
+              <img src="images/templatemo_slide_1.jpg" alt="slide 1" />
+            </li>
+            <li>
+              <img src="images/templatemo_slide_2.jpg" alt="slide 2" />
+            </li>
+          </ul>
+        </div>            
+      </div>
+    </div>
+  </div>
+  <section id="about">
+    <div class="outer_container">
+      <div class="container">
+        <div class="row">
+          <div class="col col-md-5 col-sm-12"><h1>درباره ما</h1></div>
+          <div class="col col-md-7 col-sm-12 center-row" id="about_content">
+            <div class="row center">
+              <div class="col col-md-4 col-sm-12 templatemo_ceo">
+                <img src="images/templatemo_image_02.png" alt="Linda" class="center-block img-circle img-responsive">
+                <p>PBM Team</p>
+              </div>
+              <div class="col col-md-8 col-sm-12">
+			  
+              	<p dir="rtl" Style="text-align: justify; font-size:16px;">گروه نرم افزاری PBM در سال 1389 با هدف خدمت رسانی نوین در سطح گسترده در زمینه کامپیوتر و فناوری اطلاعات آغاز به کار نمود و بابهره گيري از تجربه و دانش در زمينه توليد نرم افزار های ویندوزی ، تحت وب و اندروید و با حساسيت بسيار بر روي کارايي نرم افزارهايی که ارائه مي دهد، حداکثر تلاش خود را براي رضايت کاربران محصولات خود مي نمايد . گروه نرم افزاري PBM براي تمامي محصولاتي که ارائه مي دهد تمرکز اصلی خود را بر روی تجزيه و تحليل خواسته های مشتری و درک  امکانات مورد نياز در محصول با حضور فيزيکي افراد گروه در مکانهايي که برنامه جهت استفاده در آن مکان طراحي مي گردد ميکند تا نرم افزار شامل حداکثر امکانات مورد استفاده و کاربرد ساده تر براي کاربران باشد.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section id="team">
+    <div class="outer_container">
+      <div class="container">
+        <div class="row">
+          <div class="col col-md-5 col-md-push-7 col-sm-12"><h1 style="line-height: 300px;">مدیریت</h1></div>
+          <div class="col col-md-7 col-md-pull-5 col-sm-12 center-row" id="team_content">
+            <div dir="rtl" class="row center">
+             
+         <div class="row center">
+            
+              <div >
+			  <h2>مهندس  بهنام دری </h2>
+              	<p dir="rtl" Style="text-align: justify;">سمت مدیر کل </p>
+				<h4>سوابق تحصیلی</h4>
+				<p dir="rtl" Style="text-align: justify;">کارشناسی : مهندسی کامپیوتر گرایش نرم افزار </p>
+				<p dir="rtl" Style="text-align: justify;"> کارشناسی ارشد: مهندسی فناوری اطلاعات گرایش تجارت الکترونیک</p>
+				<h4>فعالیت های علمی</h4>
+				<p dir="rtl" Style="text-align: justify;"> 1.	کسب رتبه پنج دانشگاه در مقطع کارشناسی ارشد</p>
+				<p dir="rtl" Style="text-align: justify;">2.	ارائه مقالات علمی در کنفرانس ها </p>
+				<p dir="rtl" Style="text-align: justify;"> 3.	ساخت بازی قلعه گنج جهت انجام تحقیق های علمی</p>
+				<p dir="rtl" Style="text-align: justify;"> 4.	داده کاوی لاگ فایل ها و خوشه بندی کاربران</p>
+					<h4>زمینه‌های کاری و تحقیقاتی مورد علاقه</h4>
+				<p dir="rtl" Style="text-align: justify;"> 	تجزیه تحلیل سیستم های رایانه‌ای</p>
+				<p dir="rtl" Style="text-align: justify;"> 	تولید و تنظیم طرح های تجاری </p>
+				<p dir="rtl" Style="text-align: justify;">	داده کاوی(Data mining) </p>
+				<p dir="rtl" Style="text-align: justify;">	طراحی روابط و ساختار در وب‌سایت‌های اینترنتی  </p>
+				<p dir="rtl" Style="text-align: justify;"> 	طراحی الگوریتم ، تولید و اصلاح برنامه ها با تمرکز بر روی برنامه‌نویسی ساخت‌یافته(C# .net)</p>
+				<p dir="rtl" Style="text-align: justify;">	طراحی و پیاده‌سازی بازی‌های رایانه‌ای و تحلیل کاربران   </p>
+              	<p dir="rtl" Style="text-align: justify;"> 	مشاوره در امور تبلیغات و بازاریابی </p>
+				<p dir="rtl" Style="text-align: justify;"> 	مشاوره در امور پشتیبانی مشتری (Electronic Customer Relationship Management)</p>
+				<p dir="rtl" Style="text-align: justify;"> 		امنیت شبکه و سیستم های ارتباطی بر اساس رمز نگاری  </p>
+				<p dir="rtl" Style="text-align: justify;"> 	مدیریت پروژه های نرم افزاری </p>
+				</div>
+                   
+            </div>        
+          </div>        
+        </div>
+      </div>
+    </div>
+	</div>
+	   		  </section>
+			  <section id="team">
+			   <div class="outer_container">
+      <div class="container">
+        <div class="row">
+          <div class="col col-md-5 col-md-push-7 col-sm-12"><h1 style="line-height: 300px; background-color: rgba(0, 200, 200, 0.9);">اعضای گروه</h1></div>
+          <div class="col col-md-7 col-md-pull-5 col-sm-12 center-row" id="team_content">
+            <div dir="rtl" class="row center">
+             
+         <div class="row center">
+		   <div >
+ <h2> پویان شالبافان</h2>
+              	<p dir="rtl" Style="text-align: justify;">مدیر بخش برنامه های سرور(Server) </p>
+				<h4>سوابق تحصیلی</h4>
+				<p dir="rtl" Style="text-align: justify;">کارشناسی : مهندسی کامپیوتر گرایش نرم افزار </p>
+				<p dir="rtl" Style="text-align: justify;">کارشناسی ارشد: هوش مصنوعی و رباتیکز </p>
+				<h4>زمینه‌های کاری و تحقیقاتی مورد علاقه</h4>
+				<p dir="rtl" Style="text-align: justify;">برنامه نویسی تحت وب با تمرکز بر PHP </p>
+				<p dir="rtl" Style="text-align: justify;">برنامه نوسی عامل های هوشمند  </p>
+				<p dir="rtl" Style="text-align: justify;"> تولید واصلاح دستورهای بانک های اطلاعاتی سازگار با وب با تمرکز بر MySQL</p>
+				<p dir="rtl" Style="text-align: justify;">امنیت وب براساس رمز نگاری و تایین سطوح دسترسی چندلایه</p>
+				</div>
+				<div>
+ <h2>مهندس مهران ویژه بر رستمی</h2>
+              	<p dir="rtl" Style="text-align: justify;">مدیر بخش برنامه های سمت مشتری(Client)</p>
+				<h4>سوابق تحصیلی</h4>
+				<p dir="rtl" Style="text-align: justify;">کارشناسی : مهندسی کامپیوتر گرایش نرم افزار </p>
+			
+				<h4>زمینه‌های کاری و تحقیقاتی مورد علاقه</h4>
+				<p dir="rtl" Style="text-align: justify;">برنامه نویسی جاوا برای تلفن های همراه و رایانه های شخصی </p>
+				<p dir="rtl" Style="text-align: justify;">برنامه نوسی عامل های هوشمند  </p>
+				<p dir="rtl" Style="text-align: justify;"> تولید واصلاح دستورهای بانک های اطلاعاتی سازگار باSQL Server </p>
+				<p dir="rtl" Style="text-align: justify;">امنیت نرم افزار براساس استفاده از سخت افزار و رمز نگاری </p>
+            
+            </div>
+                   
+            </div>        
+          </div>        
+        </div>
+      </div>
+    </div>
+	</div>
+  </section>
+  <section id="services">
+    <div class="outer_container">
+      <div class="container">
+        <div class="row">
+          <div class="col col-md-5 col-sm-12 col-xs-12">
+            <h1>خدمات</h1>
+          </div>
+          <div class="col-md-2 col-sm-2 col-xs-2">
+            <div class="services_buttons">
+              <ul id="services_tabs">
+                <li class="icon-button active" data-target="#pencil"><i class="fa fa-pencil" style="vertical-align: middle"></i></li>
+                <li class="icon-button" data-target="#cog"><i class="fa fa-cog"></i></li>            
+                <li class="icon-button" data-target="#signal"><i class="fa fa-signal"></i></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col col-md-5 col-sm-10 col-xs-10 center-row" id="services_content">
+            <div class="arrow-left"></div>
+            <div class="arrow-box center-row">
+              <div class="tab-content center">              
+                <div class="tab-pane fade in active" id="pencil">
+                  	<h3 dir="rtl">طرح توسعه</h3>
+                  	<p dir="rtl" Style="text-align: justify;">PBM در برنامه های توسعه توانایی های اعضای خود اقدام به برگزاری کلاس های آموزشی و برگزاری آزمون های داخلی میکند. این آموزش ها براساس استاندارد های موجود و نیازهای شرکت بوده و درصد موفیت علمی در هر سه ماه بررسی شده و جهت ایجاد اشتیاق و انگیزه در عضای تیم، و همچنین آگاهی دادن به کاربران و مشتری ها در وب سایت قرار داده می شود. براساس قوانین داخلی اعضایی که حدنصاب لازم را بدست آورند و برترین فرد در آزمون های برگزار شده با لوح تقدیر و مزایای مالی مورد تشویق قرار می گیرد.</p>
+                </div>
+                <div class="tab-pane fade" id="cog">
+                	<h3 dir="rtl">پلتفرم موبایل</h3>
+                  	<p dir="rtl" Style="text-align: justify;">
+اندروید (Android) نام سیستم‌عاملی است که گوگل برای اسمارت فون‌ها و تبلت‌ها و همچنین اکنون برای تلویزیون‌ها عرضه می‌نماید و با همکاری سایر شرکت ها بر روی دستگاه‌های مبتنی بر اندروید قرار می‌دهد این سیستم عامل بر پایه ی هسته لینوکس ساخته شده‌است. نرم‌افزارهای جانبی اندرویدی غالبا با استفاده از زبان جاوا نوشته می‌شوند این سیستم عامل، Java Virtual Machine ندارد. برای اجرای برنامه‌های جاوایی روی این سیستم عامل، کدهای جاوا به کدهای Dalvik تبدیل می‌شوند و سپس روی Dalvik vitrual machine اجرا می‌شوند. دالویک یک ماشین مجازی جاوایی است که برای سیستم عامل اندروید بهینه شده‌است تا هم RAM و هم CPU و هم باتری کمتری مصرف کند. می توان به بخشی از توانایی های این سیستم عامل به صورت فهرست وار این گونه اشاره کرد
+1.	اندروید تمامی تکنولوژی‌های اتصال (=Connectivity) شامل GSM/EDGE, CDMA, EV-DO, UMTS, بلوتوث و وای-فای را پشتیبانی می‌کند.
+2.	اندروید از فرمت‌های مختلف فایل‌های مالتی مدیا مثل MPEG-۴, H.۲۶۴, MP3, AAC, AMR, JPEG, PNG, GIF پشتیبانی می‌کند.
+3.	اندروید برای ارسال پیغام‌های متنی یا همان اس ام اس (SMS) از فرم‌های SMS, MMS و XMPP پشتیبانی می‌کند.
+4.	مرورگر موجود در اندروید بر اساس فریم ورک اوپن سورس WebKit توسعه یافته‌است.
+5.	اندروید برای ذخیره داده‌ها و مدیریت بانک‌های اطلاعاتی سبک از نرم‌افزار SQLite استفاده می‌کند.
+6.	تمام برنامه‌های اندروید به زبان جاوا نوشته می‌شوند. برای اجرای برنامه‌های جاوایی روی این سیستم عامل، کدهای جاوا به کدهای Dalvik تبدیل می‌شوند و سپس روی ماشین مجازی جاوایی (Dalvik virtual machine) اجرا می‌شوند.
+7.	ابزارهای مختلف اندروید برای توسعه دهندگان به راحتی در دسترس است و توسط شرکت گوگل پشتیبانی می‌شوند. این ابزارها شامل کتابخانه‌ها، خطایاب، شبیه‌ساز گوشی و یک پلاگین برای اکلیپس است.
+8.	اندروید از سخت‌افزارهای مختلف همچون جی پی اس و دوربین‌های متنوع پشتیبانی می‌کند.
+9.	تصاویر و فایل‌های گرافیکی بوسیله OpenGL پردازش می‌شوند که کیفیت بالاتری خواهند داشت.
+</p>
+                </div>
+                <div class="tab-pane fade" id="signal">
+                	<h3 dir="rtl" >وب</h3>
+                  	<p dir="rtl" Style="text-align: justify;">وبسایت یا تارنما مجموعه‌ای از فایلهای مختلف اعم از تصاویر، متون و یا فایلهای برنامه نویسی شده است که به منظوری خاص به شکلی با هم مرتبط شده‌اند. این فایلها روی یک کامپیوتر قدرتمند به نام  «میزبان» یا «سرور» قرار می‌گیرند و با یک نام دامنه مشترک فراخوانی می‌شوند. 
+سایتها بر اساس کاربرد و نوع برنامه نویسی به چند دسته تقسیم می‌شوند اولین دسته سایتهای ثابت (StaticWebsite) هستند. این سایتها یکبار طراحی می‌شوند و اطلاعات مورد نیاز در داخل آنها قرار می‌گیرد و پس از آن برای تغییر در آنها هم در محتوا و هم در ظاهر سایت نیاز به یک طراح حرفه‌ای سایت است. زبان برنامه نویسی اینگونه از سایتها غالباً HTML بوده گاهی از  Java Script نیز استفاده می شود  CSSها  نیز جایگاه خود را در طراحی این وب سایت ها دارند. عدم وجود پایگاه داده در این سایت ها سبب می شود که مالکان سایت توانای ورد اطلاعات و تغییر سایت را ندارند این موضوع به این معنی است که همه چیز ثابت است از جمله متون و اندازه تصاویر و همچنین همه عناصر مکان مشخص و ثابتی را دارند. همین عوامل سبب می شود که قیمت این و بسایت ها کمتر از وب سایت های پویا با شد. میتوان اینگونه بیان کرد که سایتهای ثابت (Static) برای افراد، شرکتها و سازمانهایی مناسب است که حداکثر یک یا دو بار در سال نیازمند به تغییر در محتوای سایت دارند.
+گونه دوم سایتهای پویا (Dynamic Website) هستند، در اینگونه از سایتها ابتدا ساختار سایت توسط طراح و برنامه نویس ایجاد می‌شود و سپس محتوا توسط مدیران سایت وارد میگردد. زبان برنامه نویسی وبسایتهای پویا می‌تواند براساس نیاز متفاوت باشد اما عمدتاً از زبانهای ASP.Net و PHP استفاده می‌شود با توجه به اینکه در سایتهای پویا از زبانهای برنامه نویسی پیشرفته استفاده می‌شود امکانات زیادی در آنها قابل ایجاد است مانند ایجاد صفحات هوشمند، فرمها و جستجوهای پیچیده.
+</p>
+                </div>
+              </div>                                     
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section id="skills">
+    <div class="outer_container">
+      <div class="container">
+        <div class="row">
+          <div class="col col-md-5 col-md-push-7 col-sm-12"><h1>مهارت ها</h1></div>
+          <div class="col col-md-7 col-md-pull-5 col-sm-12">
+            <br>
+            <div class="progress vertical">
+              <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="height: 75%;width: 100%">
+                <div class="progress-label">
+                  <p>HTML</p> 
+                  <p>75%</p>
+                </div>
+              </div>
+            </div>
+            <div class="progress vertical">
+              <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100" style="height: 55%;width: 100%">
+                <div class="progress-label">
+                  <p>WP</p> 
+                  <p>55%</p>
+                </div>
+              </div>
+            </div>
+            <div class="progress vertical">
+              <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="height: 65%;width: 100%">
+                <div class="progress-label">
+                  <p>jQuery</p> 
+                  <p>65%</p>
+                </div>
+              </div>
+            </div>
+            <div class="progress vertical">
+              <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="height: 90%;width: 100%">
+                <div class="progress-label">
+                  <p>PHP</p> 
+                  <p>90%</p>
+                </div>
+              </div>
+            </div>
+            <div class="progress vertical">
+              <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="height: 70%;width: 100%">
+                <div class="progress-label">
+                  <p>Android</p> 
+                  <p>70%</p>
+                </div>
+              </div>
+            </div>
+          </div>        
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--
+  <section id="portfolio">
+    <div class="outer_container">
+      <div class="container">
+        <div class="row">      
+          <div class="col col-md-5 col-sm-12"><h1>آلبوم</h1></div>
+          <div class="col col-md-7 col-sm-12" id="portfolio_content">
+            <div class="row">
+              <div class="col col-md-4 col-sm-4 col-xs-6">
+                <div class="portfolio-item">                  
+                  <div class="portfolio-thumb">
+                    <img src="images/templatemo_slide_3_sm.jpg" alt="portfolio image 1" class="img-responsive">
+                    <div class="overlay-p">
+                      <a href="#">
+                        <h2>First Title</h2>
+                        <p>اول.</p> 
+                      </a>
+                    </div>
+                  </div>                     
+                </div>      
+              </div>
+              <div class="col col-md-4 col-sm-4 col-xs-6">  
+                <div class="portfolio-item">
+                  <div class="portfolio-thumb">              
+                    <img src="images/templatemo_image_05_sm.jpg" alt="portfolio image 2" class="img-responsive">
+                    <div class="overlay-p">
+                      <a href="#">
+                        <h2>Title Two</h2>
+                        <p>دوم.</p> 
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col col-md-4 col-sm-4 col-xs-6">
+                <div class="portfolio-item">
+                  <div class="portfolio-thumb">
+                    <img src="images/templatemo_slide_1_sm.jpg" alt="portfolio image 3" class="img-responsive">
+                    <div class="overlay-p">
+                      <a href="#">
+                        <h2>Third Title</h2>
+                        <p>سوم</p> 
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col col-md-4 col-sm-4 col-xs-6">
+                <div class="portfolio-item">
+                  <div class="portfolio-thumb">
+                    <img src="images/templatemo_image_06_sm.jpg" alt="portfolio image 4" class="img-responsive">
+                    <div class="overlay-p">
+                      <a href="#">
+                        <h2>Title Four</h2>
+                        <p>چهارم.</p> 
+                      </a>
+                    </div>
+                  </div>                  
+                </div>      
+              </div>
+              <div class="col col-md-4 col-sm-4 col-xs-6">  
+                <div class="portfolio-item">
+                  <div class="portfolio-thumb">              
+                    <img src="images/templatemo_image_07_sm.jpg" alt="portfolio image 5" class="img-responsive">
+                    <div class="overlay-p">
+                      <a href="#">
+                        <h2>Fifth Title</h2>
+                        <p>پنجم.</p> 
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col col-md-4 col-sm-4 col-xs-6">
+                <div class="portfolio-item">
+                  <div class="portfolio-thumb">
+                    <img src="images/templatemo_slide_2_sm.jpg" alt="portfolio image 6" class="img-responsive">
+                    <div class="overlay-p">
+                      <a href="#">
+                        <h2>Title Six</h2>
+                        <p>ششم.</p> 
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>   
+            </div>          
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>-->
+  <section id="blog">
+    <div class="outer_container">
+      <div class="container">
+        <div class="row">
+          <div class="col col-md-5 col-md-push-7 col-sm-12"><h1>دانلود</h1></div>
+          <div class="col col-md-7 col-md-pull-5 col-sm-12">
+            <div class="blog_posts_container">
+              
+            </div>          
+          </div>              
+        </div>
+      </div>
+    </div>
+  </section>
+  <section id="contact">
+    <div class="outer_container">
+      <div class="container">
+        <div class="row">
+          <div class="col col-md-5 col-sm-12"><h1>تماس با ما</h1></div>
+          <div class="col col-md-7 col-sm-12 col-xs-12 center-row" id="contact_content">
+            <form role="form" action="#" method="post" class="center">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <input dir="rtl"  name="email" type="email" class="form-control" id="input_name" placeholder="آدرس ایمیل">
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <input dir="rtl"  name="fullname" type="text"  class="form-control" id="input_email" placeholder="نام کامل">
+                  </div>                
+                </div> 
+              </div>
+              <div class="row">
+                <div class="col-md-12">
+                  <div class="form-group">
+                    <textarea dir="rtl" name="message" rows="3" class="form-control" id="input_message" placeholder="پیام"></textarea><br>
+                    <button type="submit" class="btn btn-primary pull-right">ارسال</button>
+                  </div>
+                </div>
+              </div> <!-- row -->
+            </form>          
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <footer>
+    <div class="container">        
+      <div class="row">
+        <div class="col col-md-6 col-sm-6 col-xs-6 col-xxs">
+          <img src="images/logo.png" alt="PBM">
+          <div id="templatemo_copyright">
+            Copyright © 2014 <a href="http://www.pbmteam.com"> PBMTeam</a> 
+          </div>
+        </div>        
+        <div class="col col-md-6 col-sm-6 col-xs-6 col-xxs">
+          <div class="pull-right">
+            <div class="social_buttons">
+              <a href="#" rel="nofollow" class="icon-button facebook"><i class="fa fa-facebook"></i></a>
+              <a href="#" rel="nofollow" class="icon-button twitter"><i class="fa fa-twitter"></i></a>             
+              <a href="#" rel="nofollow" class="icon-button youtube"><i class="fa fa-youtube"></i></a>
+            </div>
+            <a href="#" id="go-top"><div class="back_to_top">بازگشت به بالا</div></a>
+          </div>            
+        </div>
+      </div> 
+    </div>
+  </footer>
+
+  <!-- JavaScripts -->
+  <script src="js/jquery.min.js"></script>
+  <script src="bootstrap/js/bootstrap.min.js"></script>
+  <script src="js/jquery.singlePageNav.js"></script>
+  <script src="js/templatemo_custom.js"></script>
+  <script defer src="slider/jquery.flexslider.js"></script>
+  
+  <script type="text/javascript">
+
+    $(window).load(function(){
+      $('.flexslider').flexslider({
+        animation: "slide",
+        start: function(slider){
+          $('body').removeClass('loading');
+          $('.menu').singlePageNav();
+        }
+      });
+    });
+
+    $('#go-top').click(function(event) {
+      event.preventDefault();
+      jQuery('html, body').animate({scrollTop: 0}, 1000);
+      return false;
+    });
+
+  </script>
+  <!-- PBMTEAM Design-->
+</body>
+</html>

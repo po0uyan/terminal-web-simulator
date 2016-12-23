@@ -1,0 +1,104 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
+body{
+    font-family: "Ubuntu Mono", Tahoma;
+    background: url("./bkg/bkg9.jpg");
+    background-size: 100%;
+}
+a{
+    color: lawngreen;
+}
+p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#console{
+    display: block;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    //margin-left: auto;
+    //margin-right: auto;
+    //margin-top: 10%;
+    width: 800px;
+    height: 500px;
+}
+#workspace{
+    padding-left: 5px;
+    padding-bottom: 5px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    background: #000;
+    height: 500px;
+    opacity: 0.9;
+    /*color: lawngreen;*/
+    color: #ffffff;
+}
+#bar{
+    display: block;
+    width: 100%;
+    color: #fff;
+    border: 2px #d8d8d8;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    height: 30px;
+    background: #7d7e7d; /* Old browsers */
+    background: -moz-linear-gradient(top, #7d7e7d 0%, #0e0e0e 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #7d7e7d 0%,#0e0e0e 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #7d7e7d 0%,#0e0e0e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7d7e7d', endColorstr='#0e0e0e',GradientType=0 ); /* IE6-9 */
+    opacity: 0.99;
+}
+#close{
+    height:16px;
+    margin-top: 8px;
+    margin-left: 10px;
+    border-radius: 20px;
+    border: 0px;
+    background-color: #e46b37;
+}
+label{
+    display: inline;
+    width: 250px;
+}
+input:focus{
+    outline: none;
+}
+input::-webkit-input-placeholder{
+    width: 5px;
+}
+#command{
+    background: #000;
+    opacity: 0.99;
+    width: 550px;
+    /*color: lawngreen;*/
+    color: #ffffff;
+    border: none;
+    font-family: "Ubuntu Mono", Tahoma;
+    font-size: 12pt;
+}
+/* terminal Icon */
+#icon{
+    width: 60px;
+    height: 60px;
+    display: block;
+    position: absolute;
+    top: 40px;
+    left: 40px;
+}
+#icon :hover{
+    cursor: default;
+}
+
+#icon img{
+    display: block;
+}
+#iconname{
+    position: relative;
+    color: #ffffff;
+    font-family: "Ubuntu", Tahoma;
+    font-size: smaller;
+}
+.color{
+    color: #0097e4;
+}
